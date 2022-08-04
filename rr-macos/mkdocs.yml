@@ -21,3 +21,7 @@ extra:
 nav:
   - Introduction: index.md
   - Backing Up: backup.md
+markdown_extensions:
+  - meta
+site_description: An easy-to-follow tutorial for running Rec Room on MacOS devices natively. All that is required is any compatible Mac and iOS/iPadOS device to get Rec Room to run on Mac.
+site_author: Bobrobot1

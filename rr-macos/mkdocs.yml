@@ -1,0 +1,23 @@
+site_name: Rec Room on MacOS
+site_url: https://rrmac.ml/
+theme:
+  name: material
+  palette:
+    primary: deep orange
+  logo: assets/rricon.png
+  favicon: assets/rricon.png
+extra:
+  homepage: https://rrmac.ml
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord 
+      link: https://discord.gg/Rs94GdFUxm
+    - icon: fontawesome/brands/github
+      link: https://github.com/Bobrobot1
+    - icon: fontawesome/solid/vr-cardboard
+      link: https://rec.net/user/Bobrobot1
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Bobrobot1_RR
+nav:
+  - Introduction: index.md
+  - Backing Up: backup.md
